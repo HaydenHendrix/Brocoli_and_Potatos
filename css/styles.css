@@ -11,13 +11,17 @@
   }
   h1 {
     color: #461111;
+      font-family: "Copperplate", Fantasy;
   }
   h3 {
     color: #461111;
+      font-family: "Copperplate", Fantasy;
   }
   p {
     color: #040303;
+      font-family: "Papyrus", Fantasy;
   }
 table {
   color: #040303;
+    font-family: "Papyrus", Fantasy;
 }
